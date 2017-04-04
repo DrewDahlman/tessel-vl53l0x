@@ -19,5 +19,10 @@
   ],
   "dependencies": {
     "sync-queue": "0.0.2"
-  }
+  },
+  "keywords": [
+    "tessel",
+    "VL53L0X",
+    "Time of flight sensor"
+  ]
 }
