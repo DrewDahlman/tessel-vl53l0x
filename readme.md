@@ -8,8 +8,8 @@ An API wrapper for interfacing with the VL53L0X time of flight sensor and a Tess
 
 ## Use
 <pre>
-var VL53LOX = require('tessel-vl53l0x');
-var _vl53l0x = new VL53LOX(tessel.port.A);
+var VL53L0X = require('tessel-vl53l0x');
+var _vl53l0x = new VL53L0X(tessel.port.A);
 
 /*
 ------------------------------------------
