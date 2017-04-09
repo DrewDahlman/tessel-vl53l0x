@@ -1,6 +1,6 @@
 {
   "name": "tessel-vl53l0x",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Using a Tessel and the VL53L0X time of flight sensor",
   "main": "index.js",
   "scripts": {
